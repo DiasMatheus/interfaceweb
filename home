@@ -4,6 +4,6 @@
   </head>
   <body>
   <p> TESTE, PAG 2 </p>
-  <a href="index.html" Home /a>
+  <a href="index.html"> Home </a>
   </body>
 </html>
